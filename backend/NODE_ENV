@@ -1,0 +1,4 @@
+NODE_ENV=development
+PORT=5000
+MONGO_URI=mongodb://127.0.0.1:27017/ticketing-system
+JWT_SECRET=67a0191680de54a79ee5fb8ea4e18c66a21b233416ae5cbde07aa6013e79cad719ea8b177e88c2f1fa6caecb2dfdd263b090f7ae4a5ccf42613784b48eb39b42
